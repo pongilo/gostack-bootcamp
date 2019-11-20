@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
 // import { Container } from './styles';
 
 export default function SignUp() {
-  return (
-    <div />
-  );
+  return <h1>Dashboard</h1>;
 }
