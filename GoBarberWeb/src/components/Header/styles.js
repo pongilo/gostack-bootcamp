@@ -31,7 +31,7 @@ export const Content = styled.div`
 
   aside {
     display: flex;
-    align-center: center;
+    align-content: center;
   }
 `;
 
